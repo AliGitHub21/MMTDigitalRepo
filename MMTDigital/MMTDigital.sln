@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTDigital", "MMTDigital\MMTDigital.csproj", "{68F16A81-9C01-4E77-B3E0-54907697AD2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD9EE7E5-DED6-4734-83CC-AD0E9B62756E}"
+	ProjectSection(SolutionItems) = preProject
+		MMTDigital.sln = MMTDigital.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F16A81-9C01-4E77-B3E0-54907697AD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F16A81-9C01-4E77-B3E0-54907697AD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F16A81-9C01-4E77-B3E0-54907697AD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F16A81-9C01-4E77-B3E0-54907697AD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {836866CB-A7EF-475D-AA2F-E70492ECC55E}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{68F16A81-9C01-4E77-B3E0-54907697AD2E}|Default">
+  <MonoDevelop.Ide.ItemProperties.MMTDigital PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MMTDigital/Controllers/CustomerOrderController.cs">
+    <Files>
+      <File FileName="MMTDigital/Services/OrderService.cs" Line="144" Column="69" />
+      <File FileName="MMTDigital/Controllers/CustomerOrderController.cs" Line="31" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MMTDigital" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="MMTDigital" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomerOrderController.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Solution_220Items.MMTDigitalTests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
